@@ -3,8 +3,8 @@ function sample(ary) {
 }
 
 let coffeeUri = sample([
-    "https://www.amazon.com/Aerobie-AeroPress-Coffee-Espresso-Filters/dp/B001HBCVX0/ref=sr_1_4/132-4841247-4719761?ie=UTF8&qid=1533104191&sr=8-4&keywords=aeropress+coffee+makers",
-    "https://aeropressinc.com"
+    "https://aeropress.com",
+    "https://www.hario.jp/sp_v60series.html"
   ]);
 
 let indieArtistUri = sample([
